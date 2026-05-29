@@ -58,7 +58,7 @@ class MohammadSajid:
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-1a0533?style=for-the-badge&logo=huggingface&logoColor=c084fc)](https://huggingface.co)
 [![OpenCV](https://img.shields.io/badge/OpenCV-1a0533?style=for-the-badge&logo=opencv&logoColor=c084fc)](https://opencv.org)
 [![LangChain](https://img.shields.io/badge/LangChain-1a0533?style=for-the-badge&logo=chainlink&logoColor=c084fc)](https://langchain.com)
-[![Groq](https://img.shields.io/badge/Groq_AI-1a0533?style=for-the-badge&logo=thunderstorm&logoColor=c084fc)](#)
+[![Groq](https://img.shields.io/badge/Groq_AI-1a0533?style=for-the-badge&logo=lightning&logoColor=c084fc)](#)
 
 **Data & Visualization**
 
@@ -87,13 +87,13 @@ class MohammadSajid:
 
 | &nbsp; | Project | What it does | Tech |
 |:---:|---|---|---|
-| 🤖 | **[AI-AGENT](https://github.com/mdsajid2003/AI-AGENT)** | AI data analysis agent — ask questions in plain English, get charts & reports instantly | `Groq AI` `Python` `Gradio` |
+| 🤖 | **[AI-AGENT](https://github.com/mdsajid2003/AI-AGENT)** | AI data analysis agent — ask in plain English, get charts & reports instantly | `Groq AI` `Python` `Gradio` |
 | 💬 | **[Sentiment Analysis](https://github.com/mdsajid2003/Sentiment-Analysis)** | Real-time NLP web app classifying text as positive / negative / neutral using BERT | `BERT` `Flask` `Python` |
 | 👁️ | **[Object Detection](https://github.com/mdsajid2003/Object-Detection)** | YOLOv3 + OpenCV pipeline that detects & labels objects in any image | `YOLOv3` `OpenCV` `Python` |
 | 🏠 | **[PG Connect Bengaluru](https://github.com/mdsajid2003/pg-connect-bengaluru)** | Full-stack PG accommodation finder with auth, listings & real-time DB | `React` `Supabase` `TypeScript` |
 | 📊 | **[EDA & ML](https://github.com/mdsajid2003/EDA_ML)** | Hands-on EDA notebooks exploring datasets with Pandas, NumPy & Matplotlib | `Pandas` `NumPy` `Jupyter` |
-| 📐 | **[Linear Algebra](https://github.com/mdsajid2003/Linear_Algebra)** | Visual exploration of linear algebra concepts — vectors, matrices, eigenvectors | `NumPy` `Matplotlib` |
-| 🎨 | **[Plots & Animations](https://github.com/mdsajid2003/Plots_and_animations)** | Beautiful animated data visualizations from scratch | `Matplotlib` `Seaborn` |
+| 📐 | **[Linear Algebra](https://github.com/mdsajid2003/Linear_Algebra)** | Visual exploration of linear algebra — vectors, matrices, eigenvectors | `NumPy` `Matplotlib` |
+| 🎨 | **[Plots & Animations](https://github.com/mdsajid2003/Plots_and_animations)** | Beautiful animated data visualizations built from scratch | `Matplotlib` `Seaborn` |
 | 🧹 | **[Missing Data Handler](https://github.com/mdsajid2003/Handling_Data_Missing)** | Statistical techniques for detecting & imputing missing values | `Pandas` `NumPy` |
 
 </div>
@@ -104,19 +104,9 @@ class MohammadSajid:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mdsajid2003&show_icons=true&hide_border=true&bg_color=0d0d2b&title_color=c084fc&icon_color=c084fc&text_color=e2e8f0&include_all_commits=true&count_private=true" height="175" alt="stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsajid2003&layout=compact&hide_border=true&bg_color=0d0d2b&title_color=c084fc&text_color=e2e8f0&langs_count=8" height="175" alt="top languages"/>
+<img src="https://streak-stats.demolab.com?user=mdsajid2003&theme=transparent&hide_border=true&background=0d0d2b&ring=c084fc&fire=c084fc&currStreakLabel=c084fc&sideLabels=e2e8f0&dates=94a3b8&currStreakNum=ffffff&sideNums=ffffff" alt="streak stats"/>
 
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=mdsajid2003&theme=transparent&hide_border=true&background=0d0d2b&ring=c084fc&fire=c084fc&currStreakLabel=c084fc&sideLabels=e2e8f0&dates=94a3b8&currStreakNum=ffffff&sideNums=ffffff" alt="streak"/>
-
-</div>
-
-<div align="center">
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdsajid2003&bg_color=0d0d2b&color=c084fc&line=7c3aed&point=c084fc&area=true&hide_border=true" alt="activity graph" width="95%"/>
 
@@ -145,7 +135,7 @@ class MohammadSajid:
 
 <br/>
 
-> *"The goal is to turn data into information, and information into insight."* — Carly Fiorina
+> *"The goal is to turn data into information, and information into insight."*
 
 </div>
 
